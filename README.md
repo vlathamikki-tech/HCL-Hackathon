@@ -1,4 +1,4 @@
-# 📊 Sales & Profit Dashboard (Power BI)
+# 📊  Dashboard (Power BI)
 
 ## 🔹 Overview
 This dashboard analyzes sales, profit, discount, and shipping performance.
